@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px solid black;
+    text-align: center;
+    vertical-align: middle;
+}
+
+th {
+    color: green;
+    background-color: greenyellow;
+}
+
+tr {
+    color: lightgreen;
+    background-color: lightseagreen;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background: #3399ff;
+    padding: 20px;
+}
+
+ul li {
+    background: #cce5ff;
+    margin: 5px;
+}
+
+img {
+    border-radius: 50%;
+}
+
+.audio {
+    filter: sepia(20%) saturate(70%) grayscale(1) contrast(99%) invert(12%);
+    width: 200px;
+    height: 25px;
+}
+
+.video {
+    margin: 0 auto;
+    border: 5px groove darkblue;
+    width: auto;
+    height: auto;
+}
