@@ -42,7 +42,7 @@ img {
     height: 25px;
 }
 
-.video {
+#video {
     margin: 0 auto;
     border: 5px groove darkblue;
     width: auto;
